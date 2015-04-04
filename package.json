@@ -1,0 +1,23 @@
+{
+  "name": "list-my-images",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~4.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gmeluski/list-my-images.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmeluski/list-my-images/issues"
+  },
+  "homepage": "https://github.com/gmeluski/list-my-images"
+}
